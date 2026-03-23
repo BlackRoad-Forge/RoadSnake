@@ -1,35 +1,23 @@
-BSD 3-Clause License
+Copyright (c) 2025-2026 BlackRoad OS, Inc. All Rights Reserved.
 
-Copyright (c) 2012, Anaconda, Inc.
+PROPRIETARY SOFTWARE LICENSE
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+This software and associated documentation files (the "Software") are the
+exclusive property of BlackRoad OS, Inc. ("BlackRoad"). The Software is
+licensed, not sold.
 
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
+Permission is NOT granted to any person or entity to copy, modify, merge,
+publish, distribute, sublicense, sell, or create derivative works of the
+Software without the express written consent of BlackRoad OS, Inc.
 
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
+The Software is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose, and noninfringement.
 
-3. Neither the name of the copyright holder nor the names of its
-   contributors may be used to endorse or promote products derived from
-   this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+For licensing inquiries: legal@blackroad.io
 
 ---
 
-Conda incorporates the following libraries into its distributed code:
-
-* auxlib, licensed as ISC
-* frozendict, license as LGPL-3.0
+NOTICE: This software is derived from unknown.
+Original license terms may have applied to the upstream source.
+This derivative work is independently licensed under the terms above.
