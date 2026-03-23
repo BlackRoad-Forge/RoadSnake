@@ -1,3 +1,11 @@
+# RoadSnake
+
+> System-level package and environment manager
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem. Forked from [`conda/conda`](https://github.com/conda/conda).
+
+---
+
 [conda-logo]: https://s3.amazonaws.com/conda-dev/conda_logo.svg
 [tests-badge]: https://img.shields.io/github/actions/workflow/status/conda/conda/tests.yml?branch=main&event=schedule&logo=github&label=tests
 [codecov-badge]: https://img.shields.io/codecov/c/github/conda/conda/main?logo=codecov
